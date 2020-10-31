@@ -22,8 +22,8 @@
         <nav>
           <ul>
             <li>
-              <a href="./image.index">Image marker</a>
-              <a href="./local.index">Local marker</a>
+              <a href="./image.html">Image marker</a>
+              <a href="./local.html">Local marker</a>
             </li>
           </ul>
         </nav>
